@@ -2,10 +2,8 @@ Source: freetype-infinality
 Section: libs
 Priority: optional
 Maintainer: Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
-#Uploaders: Anthony Fok <foka@debian.org>, Keith Packard <keithp@keithp.com>
 Build-Depends: bzip2, debhelper (>= 8.9.4), docbook-to-man, gettext (>= 0.10.36-2), libx11-dev, x11proto-core-dev, libz-dev, quilt
 Standards-Version: 3.9.2
-#Homepage: http://www.freetype.org
 Homepage: http://www.infinality.net
 
 Package: freetype-infinality
